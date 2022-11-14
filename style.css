@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* First section */
+.first_section {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    color: green;
+    margin: 18px;
+    padding: 18px;
+}
+/* Second section */
+.second_section {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    color: red;
+    margin: 18px;
+    padding: 18px;
+}
+/* Third section */
+.third_section {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    color: blue;
+    margin: 18px;
+    padding: 18px;
+}
+td, th {
+    border: 1px solid  blue;
+    text-align: center;
+    padding: 8px;
+}
